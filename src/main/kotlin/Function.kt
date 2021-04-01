@@ -1,7 +1,6 @@
+fun helloWorld(){
+    println("Hello World!")
+}
 fun main() {
-    fun helloWorld(){
-        println("Hello World!")
-    }
-    helloWorld()
     helloWorld()
 }
