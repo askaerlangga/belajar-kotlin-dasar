@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00e08ade-8694-4688-a9a1-1467191b8933" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionParameter.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/FunctionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/FunctionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Function.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Kotlin.FunctionKt">
+  <component name="RunManager" selected="Kotlin.FunctionParameterKt">
     <configuration name="BreakContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="belajar-kotlin-dasar" />
       <option name="VM_PARAMETERS" />
@@ -63,19 +63,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForLoopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="belajar-kotlin-dasar" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ForLoopKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="FunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="belajar-kotlin-dasar" />
       <option name="VM_PARAMETERS" />
@@ -84,6 +71,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="FunctionKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionParameterKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="belajar-kotlin-dasar" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FunctionParameterKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -104,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FunctionParameterKt" />
         <item itemvalue="Kotlin.FunctionKt" />
         <item itemvalue="Kotlin.BreakContinueKt" />
         <item itemvalue="Kotlin.DoWhileLoopKt" />
         <item itemvalue="Kotlin.WhileLoopKt" />
-        <item itemvalue="Kotlin.ForLoopKt" />
       </list>
     </recent_temporary>
   </component>
@@ -131,22 +131,30 @@
       <option name="project" value="LOCAL" />
       <updated>1617250906258</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Function">
+      <created>1617252390399</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617252390399</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test commit" />
+    <MESSAGE value="Function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Function" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Project_Structure" timestamp="1617158142298">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1617158142298" />
-    <state x="221" y="0" key="CommitChangelistDialog2" timestamp="1617250904951">
+    <state x="221" y="0" key="CommitChangelistDialog2" timestamp="1617252972379">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="221" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1617250904951" />
+    <state x="221" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1617252972379" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1617248826916">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -155,22 +163,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="536" y="257" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1617249025878" />
-    <state width="661" height="179" key="GridCell.Tab.0.bottom" timestamp="1617251456845">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1617252978297">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1617251456845" />
-    <state width="661" height="179" key="GridCell.Tab.0.center" timestamp="1617251456845">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1617252978297" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1617252978296">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1617251456845" />
-    <state width="661" height="179" key="GridCell.Tab.0.left" timestamp="1617251456844">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1617252978296" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1617252978296">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1617251456844" />
-    <state width="661" height="179" key="GridCell.Tab.0.right" timestamp="1617251456845">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1617252978296" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1617252978296">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="661" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1617251456845" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1617252978296" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1617248287919">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
