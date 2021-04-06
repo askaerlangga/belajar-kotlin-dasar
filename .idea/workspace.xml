@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00e08ade-8694-4688-a9a1-1467191b8933" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/TailRecursive.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/LamdaExpression.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/META-INF/belajar-kotlin-dasar.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/META-INF/belajar-kotlin-dasar.kotlin_module" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,20 +35,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Kotlin.TailRecursiveKt">
-    <configuration name="FunctionInfixNotationKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="belajar-kotlin-dasar" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="FunctionInfixNotationKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.LambdaExpressionKt">
     <configuration name="FunctionScopeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="belajar-kotlin-dasar" />
       <option name="VM_PARAMETERS" />
@@ -59,6 +45,19 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="FunctionScopeKt" />
       <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaExpressionKt" type="JetRunConfigurationType" temporary="true">
+      <module name="belajar-kotlin-dasar" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="LamdaExpressionKt" />
+      <option name="WORKING_DIRECTORY" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -104,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.LambdaExpressionKt" />
         <item itemvalue="Kotlin.TailRecursiveKt" />
         <item itemvalue="Kotlin.RecursiveFunctionKt" />
         <item itemvalue="Kotlin.ReturnIfWhenKt" />
         <item itemvalue="Kotlin.FunctionScopeKt" />
-        <item itemvalue="Kotlin.FunctionInfixNotationKt" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617682235869</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Add TailRecursive.kt">
+      <created>1617685111835</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1617685111835</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -247,9 +253,14 @@
     <MESSAGE value="Add FunctionScope.kt" />
     <MESSAGE value="Add ReturnIfWhen.kt" />
     <MESSAGE value="Add RecursiveFunction.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add RecursiveFunction.kt" />
+    <MESSAGE value="Add TailRecursive.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add TailRecursive.kt" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="402" y="34" key="#LamdaExpressionKt" timestamp="1617725193882">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="34" key="#LamdaExpressionKt/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617725193882" />
     <state x="275" y="22" key="#Notifications" timestamp="1617438102021">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -258,11 +269,11 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1617158142298" />
-    <state x="221" y="0" key="CommitChangelistDialog2" timestamp="1617682234832">
+    <state x="221" y="0" key="CommitChangelistDialog2" timestamp="1617685110943">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="221" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617635493167" />
-    <state x="221" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1617682234832" />
+    <state x="221" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1617685110943" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1617248826916">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -271,44 +282,45 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="536" y="257" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1617249025878" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1617684770034">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1617725514775">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617635471909" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1617684770034" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1617684770034">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617725514775" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1617685425995" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1617725514775">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617635471908" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1617684770034" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1617684770033">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617725514775" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1617685425995" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1617725514774">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617635471908" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1617684770033" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1617684770034">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617725514774" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1617685425995" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1617725514775">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617635471909" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1617684770034" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617725514775" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1617685425995" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1617437069884">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617437069884" />
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1617248287919" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1617635521058">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1617685133858">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617635521058" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1617253057758" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1617685133858" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1617436919976">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617436919975" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1617250838531" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1617161532589">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1617724466756">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617724466756" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1617161532589" />
   </component>
 </project>
