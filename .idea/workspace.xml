@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00e08ade-8694-4688-a9a1-1467191b8933" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/InlineFunction.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/ArrayKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/ArrayKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/BreakContinueKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/BreakContinueKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/DoWhileLoopKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/DoWhileLoopKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/ForLoopKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/ForLoopKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/FunctionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/FunctionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/IfExpressionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/IfExpressionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/META-INF/belajar-kotlin-dasar.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/META-INF/belajar-kotlin-dasar.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/OperasiBooleanKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/OperasiBooleanKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/OperasiPerbandinganKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/OperasiPerbandinganKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/OperatorMatematikaKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/OperatorMatematikaKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/RangeKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/RangeKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/VariabelKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/VariabelKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/WhenExpressionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/WhenExpressionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/WhileLoopKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/WhileLoopKt.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -278,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619018797344</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Add InlineFunction.kt.kt">
+      <created>1619020672193</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1619020672193</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -311,7 +304,8 @@
     <MESSAGE value="Add HigherOrderFunction.kt" />
     <MESSAGE value="Add AnonymousFunction.kt" />
     <MESSAGE value="Add Closure.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Closure.kt" />
+    <MESSAGE value="Add InlineFunction.kt.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add InlineFunction.kt.kt" />
   </component>
   <component name="WindowStateProjectService">
     <state x="402" y="34" key="#LamdaExpressionKt" timestamp="1617725193882">
@@ -335,13 +329,13 @@
       <screen x="0" y="26" width="1366" height="742" />
     </state>
     <state x="271" y="41" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.26.1366.742@0.26.1366.742" timestamp="1618906873664" />
-    <state x="1587" y="26" width="807" height="704" key="CommitChangelistDialog2" timestamp="1619018796387">
+    <state x="1587" y="26" width="807" height="704" key="CommitChangelistDialog2" timestamp="1619020670980">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="221" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617727637098" />
     <state x="221" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1617685110943" />
     <state x="221" y="26" key="CommitChangelistDialog2/0.26.1366.704@0.26.1366.704" timestamp="1619000564605" />
-    <state x="1587" y="26" width="807" height="704" key="CommitChangelistDialog2/1366.0.1366.768/0.26.1366.704@1366.0.1366.768" timestamp="1619018796387" />
+    <state x="1587" y="26" width="807" height="704" key="CommitChangelistDialog2/1366.0.1366.768/0.26.1366.704@1366.0.1366.768" timestamp="1619020670980" />
     <state x="445" y="68" key="ExperimentsDialog" timestamp="1618908308665">
       <screen x="0" y="26" width="1366" height="742" />
     </state>
@@ -390,12 +384,12 @@
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1617248287919" />
     <state x="184" y="26" key="SettingsEditor/0.26.1366.742@0.26.1366.742" timestamp="1618906973453" />
     <state x="1366" y="26" width="1366" height="704" key="SettingsEditor/1366.0.1366.768/0.26.1366.704@1366.0.1366.768" timestamp="1619017554794" />
-    <state x="1641" y="102" key="Vcs.Push.Dialog.v2" timestamp="1619018818576">
+    <state x="1641" y="102" key="Vcs.Push.Dialog.v2" timestamp="1619020694521">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617635521058" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1617727667202" />
-    <state x="1641" y="102" key="Vcs.Push.Dialog.v2/1366.0.1366.768/0.26.1366.704@1366.0.1366.768" timestamp="1619018818576" />
+    <state x="1641" y="102" key="Vcs.Push.Dialog.v2/1366.0.1366.768/0.26.1366.704@1366.0.1366.768" timestamp="1619020694521" />
     <state x="379" y="218" key="com.intellij.ide.util.TipDialog" timestamp="1618906779668">
       <screen x="0" y="26" width="1366" height="742" />
     </state>
