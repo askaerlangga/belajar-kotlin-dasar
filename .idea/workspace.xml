@@ -1,59 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00e08ade-8694-4688-a9a1-1467191b8933" name="Default Changelist" comment="Add HigherOrderFunction.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/AnonymousFunction.kt" afterDir="false" />
+    <list default="true" id="00e08ade-8694-4688-a9a1-1467191b8933" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Closure.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/belajar-kotlin-dasar.iml" beforeDir="false" afterPath="$PROJECT_DIR$/belajar-kotlin-dasar.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/ArrayKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/ArrayKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/BreakContinueKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/BreakContinueKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/DoWhileLoopKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/DoWhileLoopKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/ForLoopKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/ForLoopKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/FunctionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/FunctionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/IfExpressionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/IfExpressionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/META-INF/belajar-kotlin-dasar.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/META-INF/belajar-kotlin-dasar.kotlin_module" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/OperasiBooleanKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/OperasiBooleanKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/OperasiPerbandinganKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/OperasiPerbandinganKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/OperatorMatematikaKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/OperatorMatematikaKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/RangeKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/RangeKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/VariabelKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/VariabelKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/WhenExpressionKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/WhenExpressionKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/WhileLoopKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/belajar-kotlin-dasar/WhileLoopKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Array.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/BreakContinue.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/BreakContinue.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/DoWhileLoop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/DoWhileLoop.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ExtensionFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ExtensionFunction.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ForLoop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ForLoop.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Function.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/FunctionDefaultParameter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionDefaultParameter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/FunctionInfixNotation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionInfixNotation.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/FunctionNamedArgument.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionNamedArgument.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/FunctionParameter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionParameter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/FunctionReturnType.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionReturnType.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/FunctionScope.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionScope.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/FunctionVarargsParameter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/FunctionVarargsParameter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/HigherOrderFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/HigherOrderFunction.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/IfExpression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/IfExpression.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/LamdaExpression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/LamdaExpression.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/OperasiBoolean.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/OperasiBoolean.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/OperasiPerbandingan.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/OperasiPerbandingan.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/OperatorMatematika.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/OperatorMatematika.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Range.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Range.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/RecursiveFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/RecursiveFunction.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ReturnIfWhen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ReturnIfWhen.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/SingleExpressionFunction.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/SingleExpressionFunction.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/TailRecursive.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/TailRecursive.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Variabel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Variabel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/WhenExpression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/WhenExpression.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/WhileLoop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/WhileLoop.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,10 +35,10 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin" />
   </component>
-  <component name="RunManager" selected="Kotlin.AnonymousFunctionKt">
-    <configuration name="AnonymousFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.ClosureKt">
+    <configuration name="AnonymousFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="belajar-kotlin-dasar" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -100,7 +51,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HigherOrderFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="ClosureKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="belajar-kotlin-dasar" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ClosureKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HigherOrderFunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="belajar-kotlin-dasar" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -113,7 +77,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaExpressionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true">
+    <configuration name="LambdaExpressionKt" type="JetRunConfigurationType" temporary="true">
       <module name="belajar-kotlin-dasar" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -126,20 +90,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursiveFunctionKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <module name="belajar-kotlin-dasar" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="RecursiveFunctionKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TailRecursiveKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+    <configuration name="TailRecursiveKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="belajar-kotlin-dasar" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -154,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ClosureKt" />
         <item itemvalue="Kotlin.AnonymousFunctionKt" />
         <item itemvalue="Kotlin.HigherOrderFunctionKt" />
         <item itemvalue="Kotlin.LambdaExpressionKt" />
         <item itemvalue="Kotlin.TailRecursiveKt" />
-        <item itemvalue="Kotlin.RecursiveFunctionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -300,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617727638282</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Add AnonymousFunction.kt">
+      <created>1619017103744</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1619017103744</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -331,7 +289,8 @@
     <MESSAGE value="Add TailRecursive.kt" />
     <MESSAGE value="Add LamdaExpression.kt" />
     <MESSAGE value="Add HigherOrderFunction.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add HigherOrderFunction.kt" />
+    <MESSAGE value="Add AnonymousFunction.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add AnonymousFunction.kt" />
   </component>
   <component name="WindowStateProjectService">
     <state x="402" y="34" key="#LamdaExpressionKt" timestamp="1617725193882">
@@ -355,13 +314,13 @@
       <screen x="0" y="26" width="1366" height="742" />
     </state>
     <state x="271" y="41" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.26.1366.742@0.26.1366.742" timestamp="1618906873664" />
-    <state x="1587" y="26" width="807" height="704" key="CommitChangelistDialog2" timestamp="1619017071723">
+    <state x="1587" y="26" width="807" height="704" key="CommitChangelistDialog2" timestamp="1619018751323">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="221" y="0" key="CommitChangelistDialog2/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617727637098" />
     <state x="221" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1617685110943" />
     <state x="221" y="26" key="CommitChangelistDialog2/0.26.1366.704@0.26.1366.704" timestamp="1619000564605" />
-    <state x="1587" y="26" width="807" height="704" key="CommitChangelistDialog2/1366.0.1366.768/0.26.1366.704@1366.0.1366.768" timestamp="1619017071723" />
+    <state x="1587" y="26" width="807" height="704" key="CommitChangelistDialog2/1366.0.1366.768/0.26.1366.704@1366.0.1366.768" timestamp="1619018751323" />
     <state x="445" y="68" key="ExperimentsDialog" timestamp="1618908308665">
       <screen x="0" y="26" width="1366" height="742" />
     </state>
@@ -375,46 +334,47 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="536" y="257" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1617249025878" />
-    <state width="1320" height="180" key="GridCell.Tab.0.bottom" timestamp="1619017015687">
+    <state width="1320" height="180" key="GridCell.Tab.0.bottom" timestamp="1619018752323">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617727594082" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1617728458715" />
     <state width="1320" height="193" key="GridCell.Tab.0.bottom/0.26.1366.742@0.26.1366.742" timestamp="1618908312322" />
-    <state width="1320" height="180" key="GridCell.Tab.0.bottom/1366.0.1366.768/0.26.1366.704@1366.0.1366.768" timestamp="1619017015687" />
-    <state width="1320" height="180" key="GridCell.Tab.0.center" timestamp="1619017015686">
+    <state width="1320" height="180" key="GridCell.Tab.0.bottom/1366.0.1366.768/0.26.1366.704@1366.0.1366.768" timestamp="1619018752323" />
+    <state width="1320" height="180" key="GridCell.Tab.0.center" timestamp="1619018752323">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617727594082" />
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1617728458715" />
     <state width="1320" height="193" key="GridCell.Tab.0.center/0.26.1366.742@0.26.1366.742" timestamp="1618908312320" />
-    <state width="1320" height="180" key="GridCell.Tab.0.center/1366.0.1366.768/0.26.1366.704@1366.0.1366.768" timestamp="1619017015686" />
-    <state width="1320" height="180" key="GridCell.Tab.0.left" timestamp="1619017015686">
+    <state width="1320" height="180" key="GridCell.Tab.0.center/1366.0.1366.768/0.26.1366.704@1366.0.1366.768" timestamp="1619018752323" />
+    <state width="1320" height="180" key="GridCell.Tab.0.left" timestamp="1619018752322">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617727594080" />
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1617728458714" />
     <state width="1320" height="193" key="GridCell.Tab.0.left/0.26.1366.742@0.26.1366.742" timestamp="1618908312319" />
-    <state width="1320" height="180" key="GridCell.Tab.0.left/1366.0.1366.768/0.26.1366.704@1366.0.1366.768" timestamp="1619017015686" />
-    <state width="1320" height="180" key="GridCell.Tab.0.right" timestamp="1619017015686">
+    <state width="1320" height="180" key="GridCell.Tab.0.left/1366.0.1366.768/0.26.1366.704@1366.0.1366.768" timestamp="1619018752322" />
+    <state width="1320" height="180" key="GridCell.Tab.0.right" timestamp="1619018752323">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617727594082" />
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1617728458715" />
     <state width="1320" height="193" key="GridCell.Tab.0.right/0.26.1366.742@0.26.1366.742" timestamp="1618908312321" />
-    <state width="1320" height="180" key="GridCell.Tab.0.right/1366.0.1366.768/0.26.1366.704@1366.0.1366.768" timestamp="1619017015686" />
-    <state x="1366" y="-3" width="1366" height="733" key="SettingsEditor" timestamp="1619016291784">
+    <state width="1320" height="180" key="GridCell.Tab.0.right/1366.0.1366.768/0.26.1366.704@1366.0.1366.768" timestamp="1619018752323" />
+    <state x="1366" y="26" width="1366" height="704" key="SettingsEditor" timestamp="1619017554794">
       <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617437069884" />
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1617248287919" />
     <state x="184" y="26" key="SettingsEditor/0.26.1366.742@0.26.1366.742" timestamp="1618906973453" />
-    <state x="1366" y="-3" width="1366" height="733" key="SettingsEditor/1366.0.1366.768/0.26.1366.704@1366.0.1366.768" timestamp="1619016291784" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1617727667202">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1366" y="26" width="1366" height="704" key="SettingsEditor/1366.0.1366.768/0.26.1366.704@1366.0.1366.768" timestamp="1619017554794" />
+    <state x="1641" y="102" key="Vcs.Push.Dialog.v2" timestamp="1619017138993">
+      <screen x="1366" y="0" width="1366" height="768" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/-1366.0.1366.728@0.0.1366.728" timestamp="1617635521058" />
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1617727667202" />
+    <state x="1641" y="102" key="Vcs.Push.Dialog.v2/1366.0.1366.768/0.26.1366.704@1366.0.1366.768" timestamp="1619017138993" />
     <state x="379" y="218" key="com.intellij.ide.util.TipDialog" timestamp="1618906779668">
       <screen x="0" y="26" width="1366" height="742" />
     </state>
